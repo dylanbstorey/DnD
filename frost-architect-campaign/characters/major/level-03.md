@@ -1,7 +1,7 @@
 # Major
 ## Level 3 Druid Hound Companion & Guide
 
-![Character Portrait](A brown and white hound dog wearing a magical sweater made of white yeti fur)
+![character-art.png](A brown and white hound dog wearing a magical sweater made of white yeti fur)
 
 ---
 

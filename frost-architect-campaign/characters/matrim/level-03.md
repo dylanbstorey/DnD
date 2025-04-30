@@ -1,7 +1,7 @@
 # Matrim Oakenfury
 ## Level 3 Mountain Dwarf Fighter (Champion)
 
-![Character Portrait](A young mountain dwarf with a determined expression, braided dark hair and short beard, wielding a sword and a shield made from an oaken log, with frost-like patterns glowing faintly on his armor)
+![character-art.png](A young mountain dwarf with a determined expression, braided dark hair and short beard, wielding a sword and a shield made from an oaken log, with frost-like patterns glowing faintly on his armor)
 
 ---
 

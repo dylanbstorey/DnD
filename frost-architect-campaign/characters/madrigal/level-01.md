@@ -1,7 +1,7 @@
 # Madrigal the Wild Bloom
 ## Level 1 Wood Elf Sorcerer (Wild Magic)
 
-![Character Portrait](A woman with silver-streaked auburn hair adorned with small flowers that occasionally bloom and wilt with her emotions, piercing green eyes that flicker with arcane energy, and flowing green and copper robes with patterns that subtly shift and change)
+![character-art.png](A woman with silver-streaked auburn hair adorned with small flowers that occasionally bloom and wilt with her emotions, piercing green eyes that flicker with arcane energy, and flowing green and copper robes with patterns that subtly shift and change)
 
 ### Character Information
 - **Race**: Wood Elf
