@@ -1,0 +1,127 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#e8f4f8"/>
+  
+  <!-- Bowl-shaped valley -->
+  <ellipse cx="400" cy="400" rx="380" ry="380" fill="#ffffff" stroke="#cccccc" stroke-width="2"/>
+  
+  <!-- Snow and ice areas -->
+  <path d="M400,400 m-350,0 a350,350 0 1,0 700,0 a350,350 0 1,0 -700,0" fill="none" stroke="#d9ebf3" stroke-width="40" stroke-dasharray="20,10"/>
+  <path d="M400,400 m-300,0 a300,300 0 1,0 600,0 a300,300 0 1,0 -600,0" fill="none" stroke="#d9ebf3" stroke-width="60" stroke-dasharray="30,5"/>
+  <path d="M400,400 m-220,0 a220,220 0 1,0 440,0 a220,220 0 1,0 -440,0" fill="none" stroke="#d9ebf3" stroke-width="80"/>
+  
+  <!-- Ice formations -->
+  <path d="M250,200 L260,170 L270,200 Z" fill="#a1d6e2"/>
+  <path d="M550,300 L570,260 L590,300 Z" fill="#a1d6e2"/>
+  <path d="M350,600 L365,550 L380,600 Z" fill="#a1d6e2"/>
+  <path d="M650,500 L670,470 L690,500 Z" fill="#a1d6e2"/>
+  <path d="M150,430 L170,390 L190,430 Z" fill="#a1d6e2"/>
+  <path d="M450,180 L480,120 L510,180 Z" fill="#a1d6e2"/>
+  
+  <!-- Cold energy distortion zones (50ft and 100ft radiuses) -->
+  <circle cx="400" cy="400" r="200" fill="none" stroke="#7fc9e6" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="550" y="290" font-family="Arial" font-size="12" fill="#3a3a3a">50ft radius (2d6 cold/min)</text>
+  
+  <circle cx="400" cy="400" r="100" fill="none" stroke="#0077be" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="450" y="350" font-family="Arial" font-size="12" fill="#3a3a3a">100ft radius (1d6 cold/min)</text>
+  
+  <!-- The Sphere -->
+  <circle cx="400" cy="400" r="60" fill="#a9a9a9" stroke="#666666" stroke-width="3"/>
+  <circle cx="400" cy="400" r="58" fill="none" stroke="#77aadd" stroke-width="1" stroke-dasharray="10,5"/>
+  
+  <!-- Runes on the sphere -->
+  <path d="M390,342 L410,342 L405,352 L395,352 Z" fill="#77aadd"/>
+  <path d="M342,390 L342,410 L352,405 L352,395 Z" fill="#77aadd"/>
+  <path d="M390,458 L410,458 L405,448 L395,448 Z" fill="#77aadd"/>
+  <path d="M458,390 L458,410 L448,405 L448,395 Z" fill="#77aadd"/>
+  
+  <path d="M365,350 L375,345 L385,350 L375,355 Z" fill="#77aadd"/>
+  <path d="M350,365 L345,375 L350,385 L355,375 Z" fill="#77aadd"/>
+  <path d="M365,450 L375,455 L385,450 L375,445 Z" fill="#77aadd"/>
+  <path d="M450,365 L455,375 L450,385 L445,375 Z" fill="#77aadd"/>
+  
+  <!-- Entrance -->
+  <path d="M400,460 L415,445 L415,415 L400,400 L385,415 L385,445 Z" fill="#555555" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Ice Guardians -->
+  <circle cx="385" cy="470" r="8" fill="#77aadd" stroke="#0055aa" stroke-width="2"/>
+  <text x="370" y="490" font-family="Arial" font-size="10" fill="#0055aa">Ice Guardian</text>
+  
+  <circle cx="415" cy="470" r="8" fill="#77aadd" stroke="#0055aa" stroke-width="2"/>
+  <text x="400" y="490" font-family="Arial" font-size="10" fill="#0055aa">Ice Guardian</text>
+  
+  <!-- Winter Wights Patrol -->
+  <circle cx="320" cy="350" r="6" fill="#ddddff" stroke="#8888aa" stroke-width="1"/>
+  <text x="305" y="335" font-family="Arial" font-size="10" fill="#8888aa">Wight</text>
+  
+  <circle cx="480" cy="350" r="6" fill="#ddddff" stroke="#8888aa" stroke-width="1"/>
+  <text x="465" y="335" font-family="Arial" font-size="10" fill="#8888aa">Wight</text>
+  
+  <circle cx="440" cy="280" r="6" fill="#ddddff" stroke="#8888aa" stroke-width="1"/>
+  <text x="425" y="265" font-family="Arial" font-size="10" fill="#8888aa">Wight</text>
+  
+  <circle cx="360" cy="280" r="6" fill="#ddddff" stroke="#8888aa" stroke-width="1"/>
+  <text x="345" y="265" font-family="Arial" font-size="10" fill="#8888aa">Wight</text>
+  
+  <!-- Patrol Routes -->
+  <path d="M320,350 C340,320 370,300 400,300 C430,300 460,320 480,350 C460,380 430,400 400,400 C370,400 340,380 320,350 Z" fill="none" stroke="#8888aa" stroke-width="1" stroke-dasharray="5,2"/>
+  <path d="M360,280 C380,260 420,260 440,280 C460,310 460,350 400,400 C340,350 340,310 360,280 Z" fill="none" stroke="#8888aa" stroke-width="1" stroke-dasharray="5,2"/>
+  
+  <!-- Approach options -->
+  
+  
+  <!-- Grid overlay (20 ft spacing) -->
+  <g stroke="#aaaaaa" stroke-width="0.5">
+    <!-- Vertical lines -->
+    <line x1="100" y1="100" x2="100" y2="700"/>
+    <line x1="140" y1="100" x2="140" y2="700"/>
+    <line x1="180" y1="100" x2="180" y2="700"/>
+    <line x1="220" y1="100" x2="220" y2="700"/>
+    <line x1="260" y1="100" x2="260" y2="700"/>
+    <line x1="300" y1="100" x2="300" y2="700"/>
+    <line x1="340" y1="100" x2="340" y2="700"/>
+    <line x1="380" y1="100" x2="380" y2="700"/>
+    <line x1="420" y1="100" x2="420" y2="700"/>
+    <line x1="460" y1="100" x2="460" y2="700"/>
+    <line x1="500" y1="100" x2="500" y2="700"/>
+    <line x1="540" y1="100" x2="540" y2="700"/>
+    <line x1="580" y1="100" x2="580" y2="700"/>
+    <line x1="620" y1="100" x2="620" y2="700"/>
+    <line x1="660" y1="100" x2="660" y2="700"/>
+    <line x1="700" y1="100" x2="700" y2="700"/>
+    
+    <!-- Horizontal lines -->
+    <line x1="100" y1="100" x2="700" y2="100"/>
+    <line x1="100" y1="140" x2="700" y2="140"/>
+    <line x1="100" y1="180" x2="700" y2="180"/>
+    <line x1="100" y1="220" x2="700" y2="220"/>
+    <line x1="100" y1="260" x2="700" y2="260"/>
+    <line x1="100" y1="300" x2="700" y2="300"/>
+    <line x1="100" y1="340" x2="700" y2="340"/>
+    <line x1="100" y1="380" x2="700" y2="380"/>
+    <line x1="100" y1="420" x2="700" y2="420"/>
+    <line x1="100" y1="460" x2="700" y2="460"/>
+    <line x1="100" y1="500" x2="700" y2="500"/>
+    <line x1="100" y1="540" x2="700" y2="540"/>
+    <line x1="100" y1="580" x2="700" y2="580"/>
+    <line x1="100" y1="620" x2="700" y2="620"/>
+    <line x1="100" y1="660" x2="700" y2="660"/>
+    <line x1="100" y1="700" x2="700" y2="700"/>
+  </g>
+  
+  <!-- Title and legend -->
+  <rect x="550" y="650" width="200" height="120" rx="10" fill="#f5f5f5" fill-opacity="0.8" stroke="#333" stroke-width="1"/>
+  <text x="560" y="670" font-family="Arial" font-size="14" fill="#333" font-weight="bold">Legend</text>
+  
+  <circle cx="570" cy="690" r="6" fill="#77aadd" stroke="#0055aa" stroke-width="2"/>
+  <text x="585" y="695" font-family="Arial" font-size="12" fill="#333">Ice Guardian</text>
+  
+  <circle cx="570" cy="715" r="5" fill="#ddddff" stroke="#8888aa" stroke-width="1"/>
+  <text x="585" y="720" font-family="Arial" font-size="12" fill="#333">Winter Wight</text>
+  
+  <line x1="560" y1="735" x2="580" y2="735" stroke="#aaaaaa" stroke-width="0.5"/>
+  <text x="585" y="740" font-family="Arial" font-size="12" fill="#333">Grid (20 ft)</text>
+  
+  <text x="400" y="50" font-family="Arial" font-size="22" fill="#333" text-anchor="middle" font-weight="bold">The Frost Sphere</text>
+  <text x="400" y="75" font-family="Arial" font-size="14" fill="#666" text-anchor="middle" font-style="italic">Bowl-shaped Valley Tactical Map</text>
+</svg>

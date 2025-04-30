@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Sky background -->
+  <rect width="800" height="600" fill="#e6f2ff" />
+  
+  <!-- Mountain ranges -->
+  <path d="M0 300 L100 150 L200 250 L300 180 L400 280 L500 150 L600 200 L700 120 L800 250 L800 600 L0 600 Z" fill="#f2f2f2" />
+  <path d="M0 350 L120 200 L220 280 L320 220 L420 320 L520 200 L620 250 L720 170 L800 300 L800 600 L0 600 Z" fill="#e6e6e6" />
+  
+  <!-- Snow caps -->
+  <path d="M100 150 L130 170 L170 140 L200 250" stroke="#ffffff" stroke-width="15" fill="none" />
+  <path d="M300 180 L330 200 L370 170 L400 280" stroke="#ffffff" stroke-width="15" fill="none" />
+  <path d="M500 150 L530 170 L570 140 L600 200" stroke="#ffffff" stroke-width="15" fill="none" />
+  <path d="M700 120 L730 140 L770 110 L800 250" stroke="#ffffff" stroke-width="15" fill="none" />
+  
+  <!-- Crystal Pine Forest -->
+  <circle cx="200" cy="380" r="8" fill="#235f33" />
+  <circle cx="220" cy="370" r="7" fill="#235f33" />
+  <circle cx="190" cy="360" r="9" fill="#235f33" />
+  <circle cx="170" cy="390" r="8" fill="#235f33" />
+  <circle cx="210" cy="400" r="7" fill="#235f33" />
+  <circle cx="150" cy="370" r="8" fill="#235f33" />
+  <circle cx="230" cy="385" r="6" fill="#235f33" />
+  <circle cx="160" cy="350" r="8" fill="#235f33" />
+  <circle cx="240" cy="360" r="7" fill="#235f33" />
+  
+  <!-- More trees scattered -->
+  <circle cx="140" cy="410" r="8" fill="#235f33" />
+  <circle cx="255" cy="395" r="7" fill="#235f33" />
+  <circle cx="180" cy="420" r="9" fill="#235f33" />
+  <circle cx="215" cy="340" r="6" fill="#235f33" />
+  <circle cx="165" cy="430" r="8" fill="#235f33" />
+  <circle cx="130" cy="380" r="7" fill="#235f33" />
+  <circle cx="235" cy="415" r="6" fill="#235f33" />
+  <circle cx="185" cy="330" r="7" fill="#235f33" />
+  <text x="190" y="460" font-family="Arial" font-size="16" text-anchor="middle" fill="#0d2e16">Crystal Pine Forest</text>
+  
+  <!-- Frozen Lake -->
+  <ellipse cx="400" cy="400" rx="80" ry="60" fill="#c2e6ff" stroke="#ffffff" stroke-width="4" />
+  <path d="M350 380 Q400 410 450 380" stroke="#ffffff" stroke-width="2" fill="none" />
+  <path d="M360 400 Q400 430 440 400" stroke="#ffffff" stroke-width="2" fill="none" />
+  <path d="M370 420 Q400 450 430 420" stroke="#ffffff" stroke-width="2" fill="none" />
+  <text x="400" y="480" font-family="Arial" font-size="16" text-anchor="middle" fill="#0d2e16">Frozen Lake</text>
+  
+  <!-- Whisperwind Pass -->
+  <path d="M530 380 Q580 330 630 380" stroke="#a6a6a6" stroke-width="15" fill="none" />
+  <path d="M540 380 Q590 330 640 380" stroke="#d9d9d9" stroke-width="10" fill="none" />
+  <text x="590" y="420" font-family="Arial" font-size="16" text-anchor="middle" fill="#0d2e16">Whisperwind Pass</text>
+  
+  <!-- Yeti Council -->
+  <circle cx="100" cy="300" r="25" fill="#f2f2f2" stroke="#a6a6a6" stroke-width="5" />
+  <text x="100" y="350" font-family="Arial" font-size="16" text-anchor="middle" fill="#0d2e16">Yeti Council</text>
+  
+  <!-- Snowhaven Settlement -->
+  <circle cx="650" cy="300" r="20" fill="#f2f2f2" stroke="#a6a6a6" stroke-width="3" />
+  <path d="M635 300 L650 285 L665 300 Z" fill="#a6a6a6" />
+  <path d="M625 310 L650 290 L675 310 Z" fill="#a6a6a6" />
+  <text x="650" y="350" font-family="Arial" font-size="16" text-anchor="middle" fill="#0d2e16">Snowhaven</text>
+  
+  <!-- Crash Site -->
+  <circle cx="700" cy="200" r="15" fill="#ff9999" stroke="#cc0000" stroke-width="2" />
+  <path d="M690 190 L710 210 M690 210 L710 190" stroke="#cc0000" stroke-width="3" />
+  <text x="700" y="240" font-family="Arial" font-size="16" text-anchor="middle" fill="#990000">Crash Site</text>
+  
+  <!-- Path markers -->
+  <path d="M125 300 Q190 350 290 380 Q320 390 350 390 Q450 390 530 380 Q600 370 630 310" stroke="#cc9966" stroke-width="4" stroke-dasharray="8 4" fill="none" />
+  
+  <!-- Compass rose -->
+  <circle cx="80" cy="80" r="30" fill="none" stroke="#333333" stroke-width="2" />
+  <path d="M80 50 L80 110 M50 80 L110 80" stroke="#333333" stroke-width="2" />
+  <path d="M80 50 L75 60 L85 60 Z" fill="#333333" />
+  <text x="80" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">N</text>
+  <text x="115" y="84" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">E</text>
+  <text x="80" y="120" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">S</text>
+  <text x="45" y="84" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">W</text>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#333333">The Frozen Echo: Adventure Map</text>
+  <text x="400" y="60" font-family="Arial" font-size="18" text-anchor="middle" fill="#333333">Frostpeak Mountains</text>
+</svg>

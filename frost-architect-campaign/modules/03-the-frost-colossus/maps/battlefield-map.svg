@@ -1,0 +1,73 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#e8f4f8"/>
+  
+  <!-- Valley Floor - Light Blue Ice Base -->
+  <path d="M50,50 L750,50 L750,550 L50,550 Z" fill="#d6ecf3" stroke="#a9c4cc" stroke-width="2"/>
+  
+  <!-- Deep Snow Areas - Difficult Terrain -->
+  <path d="M100,100 C150,80 200,150 250,100 C300,70 350,120 400,90 C450,70 500,120 550,100 C600,80 650,140 700,120 L700,250 C650,270 600,230 550,260 C500,290 450,250 400,280 C350,300 300,250 250,270 C200,290 150,230 100,250 Z" fill="#f0f9fc" stroke="#d6e6ec" stroke-width="2" opacity="0.8"/>
+  
+  <path d="M150,350 C200,330 250,380 300,350 C350,330 400,370 450,350 C500,330 550,380 600,350 C650,330 700,400 720,380 L700,500 C650,480 600,510 550,490 C500,470 450,520 400,500 C350,480 300,510 250,490 C200,470 150,510 100,500 L100,400 C120,380 130,360 150,350 Z" fill="#f0f9fc" stroke="#d6e6ec" stroke-width="2" opacity="0.8"/>
+  
+  <!-- Frozen Pond -->
+  <circle cx="320" cy="280" r="60" fill="#b3e0f2" stroke="#88c9e6" stroke-width="3"/>
+  <path d="M280,250 C300,270 340,260 360,240 M290,290 C310,280 330,300 350,290 M270,270 C290,290 330,280 350,270" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- The Sphere -->
+  <circle cx="400" cy="400" r="60" fill="#a1a1a1" stroke="#6a6a6a" stroke-width="4"/>
+  <circle cx="400" cy="400" r="50" fill="none" stroke="#0074D9" stroke-width="2" stroke-dasharray="5,5"/>
+  <path d="M370,380 L390,390 M410,380 L430,390 M380,410 L390,430 M410,410 L420,430" stroke="#0074D9" stroke-width="2"/>
+  <ellipse cx="400" cy="450" rx="50" ry="10" fill="#6a6a6a" opacity="0.5"/>
+  
+  <!-- Ice Formations - Can be toppled -->
+  <!-- Formation 1 -->
+  <path d="M170,180 L190,120 L210,180 Z" fill="#cae8f2" stroke="#a1d6e6" stroke-width="2"/>
+  <text x="190" y="200" font-family="Arial" font-size="10" text-anchor="middle" fill="#555">Ice Formation</text>
+  
+  <!-- Formation 2 -->
+  <path d="M520,150 L540,80 L560,150 Z" fill="#cae8f2" stroke="#a1d6e6" stroke-width="2"/>
+  <text x="540" y="170" font-family="Arial" font-size="10" text-anchor="middle" fill="#555">Ice Formation</text>
+  
+  <!-- Formation 3 -->
+  <path d="M600,350 L620,280 L640,350 Z" fill="#cae8f2" stroke="#a1d6e6" stroke-width="2"/>
+  <text x="620" y="370" font-family="Arial" font-size="10" text-anchor="middle" fill="#555">Ice Formation</text>
+  
+  <!-- Formation 4 -->
+  <path d="M240,420 L260,350 L280,420 Z" fill="#cae8f2" stroke="#a1d6e6" stroke-width="2"/>
+  <text x="260" y="440" font-family="Arial" font-size="10" text-anchor="middle" fill="#555">Ice Formation</text>
+  
+  <!-- Ridge Overlooking the Valley -->
+  <path d="M50,50 C80,70 120,60 150,80 C180,100 220,90 250,110 C280,130 320,120 350,140 C380,160 420,150 450,170 C480,190 520,180 550,200 C580,220 620,210 650,230 C680,250 720,240 750,260 L750,50 Z" fill="#b4c8d0" stroke="#93a7af" stroke-width="3"/>
+  
+  <!-- Ledges for climbing to ridge -->
+  <path d="M120,120 L140,90 L160,120 M350,130 L370,100 L390,130 M600,210 L620,180 L640,210" fill="none" stroke="#93a7af" stroke-width="2"/>
+  
+  <!-- Starting Position for Players -->
+  <circle cx="400" cy="100" r="15" fill="#4CAF50" fill-opacity="0.7"/>
+  <text x="400" y="130" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Players Start</text>
+  
+  <!-- Frost Colossus Position -->
+  <circle cx="400" cy="500" r="25" fill="#FF5722" fill-opacity="0.7"/>
+  <text x="400" y="540" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Frost Colossus</text>
+  
+  <!-- Legend -->
+  <rect x="600" y="450" width="180" height="130" rx="10" fill="#f5f5f5" fill-opacity="0.9" stroke="#333" stroke-width="1"/>
+  <text x="620" y="470" font-family="Arial" font-size="12" fill="#333" font-weight="bold">Legend</text>
+  
+  <rect x="620" y="480" width="15" height="15" fill="#f0f9fc" stroke="#d6e6ec" stroke-width="1"/>
+  <text x="645" y="493" font-family="Arial" font-size="10" fill="#333">Deep Snow (Difficult Terrain)</text>
+  
+  <circle cx="627" cy="510" r="7" fill="#b3e0f2" stroke="#88c9e6" stroke-width="1"/>
+  <text x="645" y="513" font-family="Arial" font-size="10" fill="#333">Frozen Pond (Breakable)</text>
+  
+  <path d="M620,525 L627,515 L635,525 Z" fill="#cae8f2" stroke="#a1d6e6" stroke-width="1"/>
+  <text x="660" y="528" font-family="Arial" font-size="10" fill="#333">Ice Formation (Can Topple)</text>
+  
+  <rect x="620" y="535" width="15" height="15" fill="#b4c8d0" stroke="#93a7af" stroke-width="1"/>
+  <text x="670" y="548" font-family="Arial" font-size="10" fill="#333">Ridge (Climb DC 14, High Ground)</text>
+  
+  <circle cx="627" cy="560" r="7" fill="#a1a1a1" stroke="#6a6a6a" stroke-width="1"/>
+  <text x="645" y="563" font-family="Arial" font-size="10" fill="#333">The Sphere</text>
+
+  </svg>

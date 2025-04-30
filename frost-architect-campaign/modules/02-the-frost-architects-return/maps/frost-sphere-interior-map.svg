@@ -1,0 +1,121 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background - sphere interior -->
+  <circle cx="400" cy="400" r="350" fill="#333344" stroke="#222233" stroke-width="20"/>
+  
+  <!-- Interior frost patterns -->
+  <path d="M400,400 m-320,0 a320,320 0 1,0 640,0 a320,320 0 1,0 -640,0" fill="none" stroke="#445566" stroke-width="8" stroke-dasharray="20,15"/>
+  <path d="M400,400 m-280,0 a280,280 0 1,0 560,0 a280,280 0 1,0 -560,0" fill="none" stroke="#445566" stroke-width="5" stroke-dasharray="10,10"/>
+  <path d="M400,400 m-250,0 a250,250 0 1,0 500,0 a250,250 0 1,0 -500,0" fill="none" stroke="#445566" stroke-width="3" stroke-dasharray="5,8"/>
+  
+  <!-- Entry corridor -->
+  <path d="M400,750 L370,700 L370,630 L400,600 L430,630 L430,700 Z" fill="#222233" stroke="#555566" stroke-width="2"/>
+  <text x="400" y="770" font-family="Arial" font-size="14" fill="#aabbcc" text-anchor="middle">ENTRANCE</text>
+  
+  <!-- Main chambers -->
+  
+  <!-- Central chamber with core -->
+  <circle cx="400" cy="400" r="80" fill="#223344" stroke="#77aadd" stroke-width="3"/>
+  <circle cx="400" cy="400" r="40" fill="#77aadd" stroke="#99ccff" stroke-width="2">
+    <animate attributeName="r" values="35;45;35" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="400" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">ELEMENTAL ICE CORE</text>
+  
+  <!-- Control chamber -->
+  <rect x="520" y="350" width="120" height="100" rx="10" fill="#223344" stroke="#77aadd" stroke-width="2"/>
+  <rect x="550" y="370" width="60" height="40" rx="5" fill="#335566" stroke="#77aadd" stroke-width="1"/>
+  <circle cx="580" cy="390" r="15" fill="#77aadd" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="580" y="440" font-family="Arial" font-size="12" fill="#aabbcc" text-anchor="middle">CONTROL PANEL</text>
+  
+  <!-- Map display -->
+  <rect x="300" y="520" width="200" height="120" rx="15" fill="#223344" stroke="#77aadd" stroke-width="2"/>
+  <ellipse cx="400" cy="580" rx="70" ry="40" fill="#335566" stroke="#77aadd" stroke-width="1"/>
+  <circle cx="400" cy="580" r="3" fill="#77aadd"/>
+  <circle cx="370" cy="560" r="2" fill="#77aadd"/>
+  <circle cx="430" cy="590" r="2" fill="#77aadd"/>
+  <circle cx="390" cy="610" r="2" fill="#77aadd"/>
+  <circle cx="350" cy="585" r="2" fill="#77aadd"/>
+  <circle cx="450" cy="565" r="2" fill="#77aadd"/>
+  <text x="400" y="650" font-family="Arial" font-size="12" fill="#aabbcc" text-anchor="middle">MAP DISPLAY</text>
+  
+  <!-- Deployment chamber -->
+  <rect x="180" y="350" width="120" height="100" rx="10" fill="#223344" stroke="#77aadd" stroke-width="2"/>
+  <circle cx="210" cy="380" r="10" fill="#77aadd" opacity="0.7"/>
+  <circle cx="240" cy="380" r="10" fill="#77aadd" opacity="0.7"/>
+  <circle cx="270" cy="380" r="10" fill="#77aadd" opacity="0.7"/>
+  <circle cx="210" cy="410" r="10" fill="#77aadd" opacity="0.7"/>
+  <circle cx="240" cy="410" r="10" fill="#77aadd" opacity="0.7"/>
+  <circle cx="270" cy="410" r="10" fill="#77aadd" opacity="0.7"/>
+  <text x="240" y="440" font-family="Arial" font-size="12" fill="#aabbcc" text-anchor="middle">MINI-SPHERES</text>
+  
+  <!-- Power conduits -->
+  <path d="M400,440 L400,520" fill="none" stroke="#77aadd" stroke-width="6" opacity="0.6"/>
+  <path d="M440,400 L520,400" fill="none" stroke="#77aadd" stroke-width="6" opacity="0.6"/>
+  <path d="M360,400 L300,400" fill="none" stroke="#77aadd" stroke-width="6" opacity="0.6"/>
+  <path d="M400,360 L400,250" fill="none" stroke="#77aadd" stroke-width="6" opacity="0.6"/>
+  
+  <!-- Secondary conduits -->
+  <path d="M460,420 L520,450" fill="none" stroke="#77aadd" stroke-width="3" opacity="0.6"/>
+  <path d="M340,420 L280,450" fill="none" stroke="#77aadd" stroke-width="3" opacity="0.6"/>
+  <path d="M420,460 L450,520" fill="none" stroke="#77aadd" stroke-width="3" opacity="0.6"/>
+  <path d="M380,460 L350,520" fill="none" stroke="#77aadd" stroke-width="3" opacity="0.6"/>
+  
+  <!-- Frost runes -->
+  <g fill="#77aadd" opacity="0.8">
+    <path d="M100,250 L110,270 L120,250 L110,240 Z"/>
+    <path d="M700,250 L710,270 L720,250 L710,240 Z"/>
+    <path d="M100,550 L110,570 L120,550 L110,540 Z"/>
+    <path d="M700,550 L710,570 L720,550 L710,540 Z"/>
+    <path d="M400,100 L410,120 L420,100 L410,90 Z"/>
+    <path d="M250,150 L260,170 L270,150 L260,140 Z"/>
+    <path d="M550,150 L560,170 L570,150 L560,140 Z"/>
+    <path d="M250,650 L260,670 L270,650 L260,640 Z"/>
+    <path d="M550,650 L560,670 L570,650 L560,640 Z"/>
+  </g>
+  
+  <!-- Title and legend -->
+  <rect x="50" y="50" width="200" height="150" rx="10" fill="#111122" fill-opacity="0.7" stroke="#77aadd" stroke-width="1"/>
+  <text x="70" y="80" font-family="Arial" font-size="16" fill="#aabbcc" font-weight="bold">Interior Map Legend</text>
+  
+  <circle cx="80" cy="110" r="8" fill="#77aadd"/>
+  <text x="100" y="115" font-family="Arial" font-size="12" fill="#aabbcc">Elemental Ice Core</text>
+  
+  <rect x="72" cy="130" width="16" height="12" rx="2" fill="#335566" stroke="#77aadd" stroke-width="1"/>
+  <text x="100" y="140" font-family="Arial" font-size="12" fill="#aabbcc">Control/Display Panel</text>
+  
+  <line x1="70" y1="160" x2="90" y2="160" stroke="#77aadd" stroke-width="4" opacity="0.6"/>
+  <text x="100" y="165" font-family="Arial" font-size="12" fill="#aabbcc">Energy Conduit</text>
+  
+  <path d="M75,180 L85,190 L95,180 L85,170 Z" fill="#77aadd" opacity="0.8"/>
+  <text x="120" y="185" font-family="Arial" font-size="12" fill="#aabbcc">Frost Rune</text>
+  
+  <!-- Grid overlay -->
+  <g stroke="#445566" stroke-width="0.5" opacity="0.3">
+    <!-- Radial grid lines -->
+    <line x1="400" y1="400" x2="400" y2="50"/>
+    <line x1="400" y1="400" x2="750" y2="400"/>
+    <line x1="400" y1="400" x2="400" y2="750"/>
+    <line x1="400" y1="400" x2="50" y2="400"/>
+    <line x1="400" y1="400" x2="640" y2="160"/>
+    <line x1="400" y1="400" x2="640" y2="640"/>
+    <line x1="400" y1="400" x2="160" y2="640"/>
+    <line x1="400" y1="400" x2="160" y2="160"/>
+    
+    <!-- Concentric circles -->
+    <circle cx="400" cy="400" r="100" fill="none"/>
+    <circle cx="400" cy="400" r="200" fill="none"/>
+    <circle cx="400" cy="400" r="300" fill="none"/>
+  </g>
+  
+  <!-- North indicator -->
+  <g transform="translate(700, 100)">
+    <circle cx="0" cy="0" r="25" fill="#111122" fill-opacity="0.7" stroke="#77aadd" stroke-width="1"/>
+    <text x="0" y="5" font-family="Arial" font-size="16" fill="#77aadd" text-anchor="middle">N</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial" font-size="24" fill="#aabbcc" text-anchor="middle" font-weight="bold">The Frost Sphere Interior</text>
+  <text x="400" y="70" font-family="Arial" font-size="14" fill="#8899aa" text-anchor="middle" font-style="italic">Tactical Map for Exploration</text>
+</svg>

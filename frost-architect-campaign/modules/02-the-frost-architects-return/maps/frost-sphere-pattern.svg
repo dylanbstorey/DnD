@@ -1,0 +1,175 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#e8f4f8"/>
+  
+  <!-- Title -->
+  <text x="400" y="60" font-family="Arial" font-size="24" fill="#2a5b84" text-anchor="middle" font-weight="bold">Frost Sphere Rune Patterns</text>
+  <text x="400" y="90" font-family="Arial" font-size="16" fill="#666" text-anchor="middle" font-style="italic">Deciphering the Ancient Cold Magic</text>
+  
+  <!-- Rune Pattern Grid -->
+  <g transform="translate(400, 350)">
+    <!-- Outer circle -->
+    <circle cx="0" cy="0" r="250" fill="none" stroke="#2a5b84" stroke-width="2"/>
+    
+    <!-- Inner circles -->
+    <circle cx="0" cy="0" r="200" fill="none" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <circle cx="0" cy="0" r="150" fill="none" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    
+    <!-- Radial lines -->
+    <line x1="0" y1="0" x2="0" y2="-250" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="176.78" y2="-176.78" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="250" y2="0" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="176.78" y2="176.78" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="0" y2="250" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="-176.78" y2="176.78" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="-250" y2="0" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="0" y1="0" x2="-176.78" y2="-176.78" stroke="#2a5b84" stroke-width="1" stroke-dasharray="5,5"/>
+    
+    <!-- Rune Positions - Position 1 -->
+    <g transform="translate(0, -200)">
+      <path d="M-15,-15 L15,-15 L0,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">1</text>
+    </g>
+    
+    <!-- Position 2 -->
+    <g transform="translate(141.42, -141.42)">
+      <rect x="-15" y="-15" width="30" height="30" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">2</text>
+    </g>
+    
+    <!-- Position 3 -->
+    <g transform="translate(200, 0)">
+      <circle cx="0" cy="0" r="15" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">3</text>
+    </g>
+    
+    <!-- Position 4 -->
+    <g transform="translate(141.42, 141.42)">
+      <path d="M-15,-15 L15,0 L-15,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">4</text>
+    </g>
+    
+    <!-- Position 5 -->
+    <g transform="translate(0, 200)">
+      <path d="M-15,-15 L15,-15 L0,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="35" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">5</text>
+    </g>
+    
+    <!-- Position 6 -->
+    <g transform="translate(-141.42, 141.42)">
+      <rect x="-15" y="-15" width="30" height="30" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="35" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">6</text>
+    </g>
+    
+    <!-- Position 7 -->
+    <g transform="translate(-200, 0)">
+      <circle cx="0" cy="0" r="15" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">7</text>
+    </g>
+    
+    <!-- Position 8 -->
+    <g transform="translate(-141.42, -141.42)">
+      <path d="M-15,-15 L15,0 L-15,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1"/>
+      <text x="0" y="-25" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle">8</text>
+    </g>
+    
+    <!-- Core Rune -->
+    <g>
+      <circle cx="0" cy="0" r="30" fill="#77aadd" stroke="#2a5b84" stroke-width="2"/>
+      <path d="M-20,-20 L20,-20 L0,20 Z" fill="#2a5b84"/>
+      <text x="0" y="0" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">CORE</text>
+    </g>
+  </g>
+  
+  <!-- Pulsing Sequence Hint -->
+  <rect x="100" y="650" width="600" height="100" rx="10" fill="#d6e9f5" stroke="#2a5b84" stroke-width="2"/>
+  <text x="400" y="680" font-family="Arial" font-size="16" fill="#2a5b84" text-anchor="middle" font-weight="bold">Observed Rune Activation Sequence</text>
+  
+  <g transform="translate(150, 720)">
+    <circle cx="0" cy="0" r="15" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">7</text>
+  </g>
+  
+  <text x="180" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(210, 720)">
+    <rect x="-15" y="-15" width="30" height="30" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">2</text>
+  </g>
+  
+  <text x="240" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(270, 720)">
+    <path d="M-15,-15 L15,-15 L0,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">5</text>
+  </g>
+  
+  <text x="300" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(330, 720)">
+    <path d="M-15,-15 L15,0 L-15,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </path>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">8</text>
+  </g>
+  
+  <text x="360" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(390, 720)">
+    <circle cx="0" cy="0" r="15" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">3</text>
+  </g>
+  
+  <text x="420" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(450, 720)">
+    <path d="M-15,-15 L15,-15 L0,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="2.5s" repeatCount="indefinite"/>
+    </path>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">1</text>
+  </g>
+  
+  <text x="480" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(510, 720)">
+    <rect x="-15" y="-15" width="30" height="30" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">6</text>
+  </g>
+  
+  <text x="540" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(570, 720)">
+    <path d="M-15,-15 L15,0 L-15,15 Z" fill="#77aadd" stroke="#2a5b84" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="3.5s" repeatCount="indefinite"/>
+    </path>
+    <text x="0" y="0" font-family="Arial" font-size="12" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">4</text>
+  </g>
+  
+  <text x="600" y="720" font-family="Arial" font-size="20" fill="#2a5b84">→</text>
+  
+  <g transform="translate(630, 720)">
+    <circle cx="0" cy="0" r="30" fill="#77aadd" stroke="#2a5b84" stroke-width="2">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" font-family="Arial" font-size="14" fill="#2a5b84" text-anchor="middle" dominant-baseline="middle">CORE</text>
+  </g>
+  
+  <!-- Instructions -->
+  <rect x="100" y="130" width="600" height="120" rx="10" fill="#ffffff" fill-opacity="0.7" stroke="#2a5b84" stroke-width="1"/>
+  <text x="400" y="155" font-family="Arial" font-size="16" fill="#2a5b84" text-anchor="middle" font-weight="bold">Arcana Check DC 16: Rune Analysis</text>
+  <text x="400" y="185" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">The runes on the sphere's surface pulse in a specific sequence,</text>
+  <text x="400" y="205" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">channeling cold energy from the environment to the core.</text>
+  <text x="400" y="225" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Understanding this pattern may reveal how to disrupt the sphere's function.</text>
+</svg>

@@ -1,0 +1,118 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#0c1438" />
+  
+  <!-- Chamber Walls -->
+  <circle cx="400" cy="400" r="350" fill="#1a2950" stroke="#293c74" stroke-width="8" />
+  
+  <!-- Inner Chamber -->
+  <circle cx="400" cy="400" r="300" fill="#293c74" stroke="#4969b0" stroke-width="4" />
+  
+  <!-- Crystal Patterns on Walls -->
+  <!-- North Section -->
+  <path d="M250,150 L270,110 L290,150" stroke="#a4bdff" stroke-width="2" />
+  <path d="M300,130 L320,90 L340,130" stroke="#a4bdff" stroke-width="2" />
+  <path d="M350,120 L370,80 L390,120" stroke="#a4bdff" stroke-width="2" />
+  <path d="M400,110 L420,70 L440,110" stroke="#a4bdff" stroke-width="2" />
+  <path d="M450,120 L470,80 L490,120" stroke="#a4bdff" stroke-width="2" />
+  <path d="M500,130 L520,90 L540,130" stroke="#a4bdff" stroke-width="2" />
+  <path d="M550,150 L570,110 L590,150" stroke="#a4bdff" stroke-width="2" />
+  
+  <!-- East Section -->
+  <path d="M650,250 L690,270 L650,290" stroke="#a4bdff" stroke-width="2" />
+  <path d="M670,300 L710,320 L670,340" stroke="#a4bdff" stroke-width="2" />
+  <path d="M680,350 L720,370 L680,390" stroke="#a4bdff" stroke-width="2" />
+  <path d="M690,400 L730,420 L690,440" stroke="#a4bdff" stroke-width="2" />
+  <path d="M680,450 L720,470 L680,490" stroke="#a4bdff" stroke-width="2" />
+  <path d="M670,500 L710,520 L670,540" stroke="#a4bdff" stroke-width="2" />
+  <path d="M650,550 L690,570 L650,590" stroke="#a4bdff" stroke-width="2" />
+  
+  <!-- South Section -->
+  <path d="M250,650 L270,690 L290,650" stroke="#a4bdff" stroke-width="2" />
+  <path d="M300,670 L320,710 L340,670" stroke="#a4bdff" stroke-width="2" />
+  <path d="M350,680 L370,720 L390,680" stroke="#a4bdff" stroke-width="2" />
+  <path d="M400,690 L420,730 L440,690" stroke="#a4bdff" stroke-width="2" />
+  <path d="M450,680 L470,720 L490,680" stroke="#a4bdff" stroke-width="2" />
+  <path d="M500,670 L520,710 L540,670" stroke="#a4bdff" stroke-width="2" />
+  <path d="M550,650 L570,690 L590,650" stroke="#a4bdff" stroke-width="2" />
+  
+  <!-- West Section -->
+  <path d="M150,250 L110,270 L150,290" stroke="#a4bdff" stroke-width="2" />
+  <path d="M130,300 L90,320 L130,340" stroke="#a4bdff" stroke-width="2" />
+  <path d="M120,350 L80,370 L120,390" stroke="#a4bdff" stroke-width="2" />
+  <path d="M110,400 L70,420 L110,440" stroke="#a4bdff" stroke-width="2" />
+  <path d="M120,450 L80,470 L120,490" stroke="#a4bdff" stroke-width="2" />
+  <path d="M130,500 L90,520 L130,540" stroke="#a4bdff" stroke-width="2" />
+  <path d="M150,550 L110,570 L150,590" stroke="#a4bdff" stroke-width="2" />
+  
+  <!-- Entrance to Chamber -->
+  <path d="M170,450 C180,430 200,435 210,420 C220,405 235,410 250,420 L250,480 C235,490 220,485 210,470 C200,455 180,470 170,450 Z" fill="#4969b0" stroke="#7391e0" stroke-width="2" />
+  <text x="210" y="410" fill="white" font-family="Arial" font-size="14" text-anchor="middle">Entrance</text>
+  
+  <!-- Central Dais -->
+  <circle cx="400" cy="400" r="80" fill="#293c74" stroke="#4969b0" stroke-width="3" />
+  <circle cx="400" cy="400" r="70" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="400" cy="400" r="60" fill="#293c74" />
+  
+  <!-- Seven-Pointed Star Pattern -->
+  <path d="M400,340 L415,385 L470,400 L415,415 L400,460 L385,415 L330,400 L385,385 Z" fill="none" stroke="#7391e0" stroke-width="2" stroke-opacity="0.7" />
+  
+  <!-- Seven Depressions for Stones -->
+  <circle cx="400" cy="340" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="415" cy="385" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="470" cy="400" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="415" cy="415" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="400" cy="460" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="385" cy="415" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <circle cx="330" cy="400" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  
+  <!-- First Stone of Clarity (Glowing) -->
+  <circle cx="400" cy="340" r="8" fill="#a4bdff" stroke="#ffffff" stroke-width="1">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
+  </circle>
+  
+  <!-- Harmonic Resonance Waves (Concentric Circles from Dais) -->
+  <circle cx="400" cy="400" r="120" fill="none" stroke="#7391e0" stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="400" cy="400" r="150" fill="none" stroke="#7391e0" stroke-width="1" stroke-opacity="0.25" />
+  <circle cx="400" cy="400" r="180" fill="none" stroke="#7391e0" stroke-width="1" stroke-opacity="0.2" />
+  <circle cx="400" cy="400" r="210" fill="none" stroke="#7391e0" stroke-width="1" stroke-opacity="0.15" />
+  <circle cx="400" cy="400" r="240" fill="none" stroke="#7391e0" stroke-width="1" stroke-opacity="0.1" />
+  
+  <!-- Ancient Runes Around the Room (Circle of Text) -->
+  <path id="textPath" d="M400,180 A220,220 0 1,1 399,180" fill="none" />
+  <text fill="#a4bdff" font-family="Arial" font-size="12" opacity="0.8">
+    <textPath href="#textPath">THOSE WHO SEEK CLARITY MUST BRING HARMONY - SOUND REVEALS WHAT EYES CANNOT SEE - SEVEN TONES UNLOCK THE BINDING - THE FIRST KEY AWAITS THE WORTHY</textPath>
+  </text>
+  
+  <!-- Crystalline Structures scattered around chamber -->
+  <path d="M320,200 L300,160 L280,200" stroke="#a4bdff" stroke-width="2" />
+  <path d="M500,220 L520,180 L540,220" stroke="#a4bdff" stroke-width="2" />
+  <path d="M580,350 L620,370 L580,390" stroke="#a4bdff" stroke-width="2" />
+  <path d="M500,580 L520,620 L540,580" stroke="#a4bdff" stroke-width="2" />
+  <path d="M300,550 L280,590 L260,550" stroke="#a4bdff" stroke-width="2" />
+  <path d="M220,350 L180,370 L220,390" stroke="#a4bdff" stroke-width="2" />
+  
+  <!-- Guardian of Resonance Location -->
+  <circle cx="400" cy="280" r="20" fill="#4969b0" opacity="0.4" />
+  <text x="400" y="260" fill="white" font-family="Arial" font-size="12" text-anchor="middle">Guardian</text>
+  
+  <!-- Title -->
+  <text x="400" y="40" fill="white" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">CHAMBER OF RESONANCE</text>
+  <text x="400" y="65" fill="#a4bdff" font-family="Arial" font-size="14" text-anchor="middle">Resting Place of the Stone of Clarity</text>
+  
+  <!-- Legend -->
+  <rect x="600" y="600" width="180" height="120" fill="#1a2950" stroke="#293c74" stroke-width="2" rx="5" ry="5" />
+  <text x="690" y="620" fill="white" font-family="Arial" font-size="14" text-anchor="middle">LEGEND</text>
+  
+  <circle cx="615" cy="640" r="5" fill="#a4bdff" />
+  <text x="700" y="645" fill="white" font-family="Arial" font-size="12">Crystal Formations</text>
+  
+  <circle cx="615" cy="665" r="8" fill="#1a2950" stroke="#7391e0" stroke-width="1" />
+  <text x="700" y="670" fill="white" font-family="Arial" font-size="12">Stone Depressions</text>
+  
+  <circle cx="615" cy="690" r="8" fill="#a4bdff" stroke="#ffffff" stroke-width="1" />
+  <text x="700" y="695" fill="white" font-family="Arial" font-size="12">Glowing Depression</text>
+  
+  <circle cx="615" cy="715" r="5" fill="#4969b0" opacity="0.5" />
+  <text x="700" y="720" fill="white" font-family="Arial" font-size="12">Guardian Location</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f8ff" />
+  
+  <!-- Central Platform -->
+  <circle cx="400" cy="300" r="200" fill="#e6f2ff" stroke="#c2e6ff" stroke-width="4" />
+  
+  <!-- Circle with 8 symbols -->
+  <circle cx="400" cy="300" r="170" fill="none" stroke="#c2e6ff" stroke-width="5" />
+  
+  <!-- 8 Symbols around the circle -->
+  <!-- 1: Sun (top) -->
+  <circle cx="400" cy="130" r="20" fill="#ffcc00" />
+  <path d="M400 115 L400 100 M410 135 L425 150 M380 145 L365 160 M380 115 L365 100 M420 115 L435 100" stroke="#ffcc00" stroke-width="3" />
+  
+  <!-- 2: Moon (top right) -->
+  <path d="M527 173 A20 20 0 1 1 547 193 A14 14 0 1 0 527 173" fill="#f2f2f2" />
+  
+  <!-- 3: Star (right) -->
+  <path d="M570 300 L585 330 L550 310 L590 310 L555 330 Z" fill="#ffffff" stroke="#c2e6ff" stroke-width="2" />
+  
+  <!-- 4: Mountain (bottom right) -->
+  <path d="M527 407 L547 377 L567 407" fill="#cccccc" />
+  
+  <!-- 5: Tree (bottom) -->
+  <path d="M390 470 L400 440 L410 470" fill="#0d4d26" />
+  <path d="M385 460 L400 430 L415 460" fill="#0d4d26" />
+  <path d="M380 450 L400 420 L420 450" fill="#0d4d26" />
+  <rect x="397" y="470" width="6" height="10" fill="#663300" />
+  
+  <!-- 6: Cloud (bottom left) -->
+  <path d="M273 407 Q283 392 298 402 Q308 387 323 397 Q303 417 273 407" fill="#f2f2f2" />
+  
+  <!-- 7: River (left) -->
+  <path d="M230 300 Q270 280 310 300" stroke="#c2e6ff" stroke-width="8" fill="none" />
+  
+  <!-- 8: Crystal (top left) -->
+  <path d="M273 193 L293 173 L313 193 L293 213 Z" fill="#cc99ff" fill-opacity="0.7" />
+  
+  <!-- 3x3 Grid Platform -->
+  <rect x="310" y="210" width="180" height="180" fill="#ffffff" stroke="#c2e6ff" stroke-width="4" />
+  
+  <!-- Grid lines -->
+  <line x1="310" y1="270" x2="490" y2="270" stroke="#c2e6ff" stroke-width="2" />
+  <line x1="310" y1="330" x2="490" y2="330" stroke="#c2e6ff" stroke-width="2" />
+  <line x1="370" y1="210" x2="370" y2="390" stroke="#c2e6ff" stroke-width="2" />
+  <line x1="430" y1="210" x2="430" y2="390" stroke="#c2e6ff" stroke-width="2" />
+  
+  <!-- Puzzle Instructions -->
+  <rect x="200" y="500" width="400" height="80" rx="10" fill="#f2f2ff" stroke="#c2e6ff" stroke-width="2" />
+  <text x="400" y="530" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Healing Shrine Puzzle</text>
+  <text x="400" y="560" font-family="Arial" font-size="12" text-anchor="middle">Arrange the symbols in the grid to match the pattern on the outer ring.</text>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle">Healing Shrine</text>
+  <text x="400" y="60" font-family="Arial" font-size="16" text-anchor="middle">Snowhaven Settlement</text>
+</svg>

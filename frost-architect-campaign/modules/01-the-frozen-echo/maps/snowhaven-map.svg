@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f8ff" />
+  
+  <!-- Settlement Ground/Snow -->
+  <ellipse cx="400" cy="350" rx="350" ry="250" fill="#ffffff" stroke="#e6e6e6" stroke-width="3" />
+  
+  <!-- Pine Trees Around Settlement -->
+  <!-- Left side trees -->
+  <path d="M100 300 L120 240 L140 300 Z" fill="#0d4d26" />
+  <path d="M105 250 L120 200 L135 250 Z" fill="#0d4d26" />
+  <path d="M110 210 L120 170 L130 210 Z" fill="#0d4d26" />
+  <rect x="117" y="300" width="6" height="20" fill="#663300" />
+  
+  <path d="M150 320 L170 260 L190 320 Z" fill="#0d4d26" />
+  <path d="M155 270 L170 220 L185 270 Z" fill="#0d4d26" />
+  <path d="M160 230 L170 190 L180 230 Z" fill="#0d4d26" />
+  <rect x="167" y="320" width="6" height="20" fill="#663300" />
+  
+  <path d="M80 350 L100 290 L120 350 Z" fill="#0d4d26" />
+  <path d="M85 300 L100 250 L115 300 Z" fill="#0d4d26" />
+  <path d="M90 260 L100 220 L110 260 Z" fill="#0d4d26" />
+  <rect x="97" y="350" width="6" height="20" fill="#663300" />
+  
+  <!-- Right side trees -->
+  <path d="M680 300 L700 240 L720 300 Z" fill="#0d4d26" />
+  <path d="M685 250 L700 200 L715 250 Z" fill="#0d4d26" />
+  <path d="M690 210 L700 170 L710 210 Z" fill="#0d4d26" />
+  <rect x="697" y="300" width="6" height="20" fill="#663300" />
+  
+  <path d="M630 320 L650 260 L670 320 Z" fill="#0d4d26" />
+  <path d="M635 270 L650 220 L665 270 Z" fill="#0d4d26" />
+  <path d="M640 230 L650 190 L660 230 Z" fill="#0d4d26" />
+  <rect x="647" y="320" width="6" height="20" fill="#663300" />
+  
+  <path d="M710 350 L730 290 L750 350 Z" fill="#0d4d26" />
+  <path d="M715 300 L730 250 L745 300 Z" fill="#0d4d26" />
+  <path d="M720 260 L730 220 L740 260 Z" fill="#0d4d26" />
+  <rect x="727" y="350" width="6" height="20" fill="#663300" />
+  
+  <!-- Main Yeti Dome Structures -->
+  <!-- Central Dome (Largest/Main Hall) -->
+  <ellipse cx="400" cy="350" rx="100" ry="70" fill="#f2f2f2" stroke="#cccccc" stroke-width="4" />
+  <ellipse cx="400" cy="350" rx="90" ry="60" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="400" cy="300" r="10" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="400" y="360" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">Central Hall</text>
+  
+  <!-- Collapsed section -->
+  <path d="M430 290 Q460 330 480 310" stroke="#cccccc" stroke-width="5" stroke-dasharray="5,5" fill="none" />
+  <path d="M470 300 L485 315" stroke="#cccccc" stroke-width="4" />
+  <path d="M465 310 L480 325" stroke="#cccccc" stroke-width="4" />
+  <path d="M460 320 L475 335" stroke="#cccccc" stroke-width="4" />
+  
+  <!-- Healing Shrine -->
+  <ellipse cx="550" cy="300" rx="60" ry="45" fill="#f2f2f2" stroke="#c2e6ff" stroke-width="4" />
+  <ellipse cx="550" cy="300" rx="50" ry="35" fill="#ffffff" stroke="#e6f2ff" stroke-width="2" />
+  <circle cx="550" cy="300" r="20" fill="#e6f2ff" stroke="#c2e6ff" stroke-width="2" /> <!-- Healing platform -->
+  <!-- Rune tiles in 3x3 grid -->
+  <rect x="535" y="285" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="550" y="285" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="565" y="285" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="535" y="300" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="550" y="300" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="565" y="300" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="535" y="315" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="550" y="315" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <rect x="565" y="315" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <circle cx="550" cy="270" r="7" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="550" y="350" font-family="Arial" font-size="14" text-anchor="middle" fill="#333333">Healing Shrine</text>
+  
+  <!-- Family Dome 1 -->
+  <ellipse cx="300" cy="250" rx="45" ry="35" fill="#f2f2f2" stroke="#cccccc" stroke-width="3" />
+  <ellipse cx="300" cy="250" rx="35" ry="25" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="300" cy="230" r="6" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="300" y="260" font-family="Arial" font-size="12" text-anchor="middle" fill="#333333">Family Dome</text>
+  
+  <!-- Family Dome 2 -->
+  <ellipse cx="250" cy="330" rx="45" ry="35" fill="#f2f2f2" stroke="#cccccc" stroke-width="3" />
+  <ellipse cx="250" cy="330" rx="35" ry="25" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="250" cy="310" r="6" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="250" y="340" font-family="Arial" font-size="12" text-anchor="middle" fill="#333333">Family Dome</text>
+  
+  <!-- Family Dome 3 -->
+  <ellipse cx="340" cy="420" rx="45" ry="35" fill="#f2f2f2" stroke="#cccccc" stroke-width="3" />
+  <ellipse cx="340" cy="420" rx="35" ry="25" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="340" cy="400" r="6" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="340" y="430" font-family="Arial" font-size="12" text-anchor="middle" fill="#333333">Family Dome</text>
+  
+  <!-- Storage Dome -->
+  <ellipse cx="450" cy="450" rx="40" ry="30" fill="#f2f2f2" stroke="#cccccc" stroke-width="3" />
+  <ellipse cx="450" cy="450" rx="30" ry="20" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="450" cy="435" r="5" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="450" y="460" font-family="Arial" font-size="12" text-anchor="middle" fill="#333333">Storage</text>
+  
+  <!-- Workshop -->
+  <ellipse cx="500" cy="400" rx="40" ry="30" fill="#f2f2f2" stroke="#cccccc" stroke-width="3" />
+  <ellipse cx="500" cy="400" rx="30" ry="20" fill="#ffffff" stroke="#e6e6e6" stroke-width="2" />
+  <circle cx="500" cy="385" r="5" fill="#c2e6ff" /> <!-- Smoke hole/light opening -->
+  <text x="500" y="410" font-family="Arial" font-size="12" text-anchor="middle" fill="#333333">Workshop</text>
+  
+  <!-- Paths between structures -->
+  <path d="M350 350 L325 300 L300 270" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M350 350 L300 330" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M350 350 L340 385" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M450 350 L490 380" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M450 350 L450 420" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M450 350 L500 320" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  
+  <!-- Main path to Healing Shrine -->
+  <path d="M450 350 L500 320" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <path d="M500 320 L550 300" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  
+  <!-- Winter Wight positions (for DM reference) -->
+  <circle cx="425" cy="450" r="10" fill="none" stroke="#0000ff" stroke-width="2" stroke-dasharray="3,3" />
+  <text x="425" cy="470" font-family="Arial" font-size="10" text-anchor="middle" fill="#0000ff">Wight 1</text>
+  
+  <circle cx="525" cy="350" r="10" fill="none" stroke="#0000ff" stroke-width="2" stroke-dasharray="3,3" />
+  <text x="525" cy="370" font-family="Arial" font-size="10" text-anchor="middle" fill="#0000ff">Wight 2</text>
+  
+  <circle cx="480" cy="275" r="10" fill="none" stroke="#0000ff" stroke-width="2" stroke-dasharray="3,3" />
+  <text x="480" cy="295" font-family="Arial" font-size="10" text-anchor="middle" fill="#0000ff">Wight 3</text>
+  
+  <!-- Frozen Yeti position -->
+  <circle cx="550" cy="300" r="15" fill="none" stroke="#9966ff" stroke-width="2" stroke-dasharray="5,2" />
+  <text x="570" cy="275" font-family="Arial" font-size="10" text-anchor="middle" fill="#9966ff">Frozen Yeti</text>
+  
+  <!-- Legend -->
+  <rect x="650" y="400" width="120" height="150" fill="white" stroke="#cccccc" stroke-width="2" />
+  <text x="710" y="420" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Legend</text>
+  
+  <circle cx="670" cy="440" r="5" fill="#c2e6ff" />
+  <text x="730" y="445" font-family="Arial" font-size="12" text-anchor="middle">Light/Smoke Hole</text>
+  
+  <line x1="660" y1="460" x2="680" y2="460" stroke="#f2f2f2" stroke-width="10" stroke-linecap="round" />
+  <text x="730" y="465" font-family="Arial" font-size="12" text-anchor="middle">Snow Path</text>
+  
+  <circle cx="670" cy="480" r="10" fill="none" stroke="#0000ff" stroke-width="2" stroke-dasharray="3,3" />
+  <text x="730" y="485" font-family="Arial" font-size="12" text-anchor="middle">Winter Wight</text>
+  
+  <circle cx="670" cy="500" r="10" fill="none" stroke="#9966ff" stroke-width="2" stroke-dasharray="5,2" />
+  <text x="730" y="505" font-family="Arial" font-size="12" text-anchor="middle">Frozen Yeti</text>
+  
+  <rect x="665" y="520" width="10" height="10" fill="#c2e6ff" stroke="#ffffff" stroke-width="1" />
+  <text x="730" y="525" font-family="Arial" font-size="12" text-anchor="middle">Puzzle Tile</text>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle">Snowhaven Settlement</text>
+  <text x="400" y="60" font-family="Arial" font-size="16" text-anchor="middle">Home to 17 Yetis (including 5 younglings)</text>
+</svg>
