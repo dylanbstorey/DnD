@@ -1,7 +1,7 @@
-# Session 4: The Dwarven Fortress
+# Session 5: The Dwarven Fortress
 
 ## Session Overview
-This session takes the players to an abandoned dwarven fortress in search of the Stone of Resilience, the second of the Seven Binding Stones. They will discover the dwarves' connection to the original binding ritual and face more powerful servants of the Frost Architect.
+This session takes the players to an abandoned dwarven fortress in search of the Stone of Resilience, the second of the Four Stones of Binding. They will discover the dwarves' connection to the original binding ritual and face more powerful servants of the Frost Architect.
 
 ## Part 1: Preparations and Journey
 
@@ -234,8 +234,9 @@ This enemy is likely too powerful for a direct confrontation at this stage:
 
 ### Vision from the Stones
 Once safely away from the fortress, the two Stones activate together:
-- Shows a vision of a hidden temple in an ancient glacier
-- Reveals this is the location of the third Stone (the Stone of Harmony)
+- Shows a vision of a glittering city nestled in a mountain valley, steam rising from hot springs
+- Zooms to a grand manor filled with treasures — and there, in a glass case, the cubic Stone of Power
+- The vision names the place: Crystalvale, and the collector: Lord Vesper Ashcroft
 - Shows the Frost Architect growing stronger as more spheres activate
 - Indicates that the Stones must be gathered quickly before the network is complete
 
@@ -243,14 +244,14 @@ Once safely away from the fortress, the two Stones activate together:
 "The Frost Architect knows we have two of the Stones now. His forces will hunt us relentlessly. We should return to the Council immediately—the Elders must know about the Frost General's appearance. It means the Architect is regaining his power more quickly than we feared."
 
 ### Session Conclusion
-- The party has recovered the second of seven Stones
+- The party has recovered the second of four Stones
 - They've learned about the dwarves' role in the original binding
 - They now face active opposition from the Frost Architect's lieutenant
 - Time is running even shorter as more spheres are activated
 
 ## Post-Session Notes
 Next session will feature:
-- Return to the Yeti Council for new information
-- Journey to the glacier temple for the third Stone
-- Learning how to use the Stones' combined powers
-- Discovering more about the original binding ritual
+- Journey to Crystalvale for the third Stone
+- Infiltration of Lord Ashcroft's gala
+- A heist-style adventure with comedy and social challenges
+- Introduction of Lady Rime, a potential wild card ally

@@ -1,5 +1,5 @@
 # The Stone of Clarity
-*First of the Seven Stones of Binding*
+*First of the Four Stones of Binding*
 
 ![Stone of Clarity](A multifaceted crystal that shifts between translucent and opalescent, with patterns inside that seem to move when viewed from different angles, emitting a subtle blue-white light)
 
@@ -25,18 +25,21 @@ Once per day, the bearer can invoke the Stone's power to cast *See Invisibility*
 When in the presence of the Frost Architect's servants, the Stone pulses with a subtle blue light. Looking through the Stone at such creatures reveals their true nature, even if they are disguised or transformed.
 
 ### Connection to Other Stones
-The Stone of Clarity is intrinsically linked to the other Six Stones of Binding. As additional Stones are recovered, they resonate with each other, strengthening their individual powers:
-- With 2 Stones: Duration of *See Invisibility* extends to 2 hours
-- With 3 Stones: Can share True Sight with one ally by touch
-- With 4 Stones: Gain resistance to cold damage
-- With 5 Stones: Can cast *Zone of Truth* once per day
-- With 6 Stones: Advantage on all Wisdom and Intelligence saving throws
-- With 7 Stones: The binding ritual can be performed
+The Stone of Clarity is intrinsically linked to the other three cardinal Stones of Binding. As additional Stones are recovered, they resonate with each other, strengthening their powers:
+
+| Stones Gathered | Additional Effects |
+|-----------------|-------------------|
+| 2 Stones (Clarity + Resilience) | Bearers can sense each other's general direction and emotional state; can create a protective barrier against cold energy |
+| 3 Stones (+ Power) | Stones pulse in synchronized rhythms; all stone powers gain +1 to DCs; duration of *See Invisibility* extends to 2 hours |
+| 4 Stones (+ Binding) | Complete set glows with inner light; path to the Chamber of Binding becomes clear; the binding ritual can be performed |
 
 ## Historical Significance
 The Stone of Clarity was crafted through the combined wisdom of Yeti seers and Dwarven gemcutters. The crystalline material came from the highest peak of the Forbidden Mountains, where the barrier between planes is thinnest, allowing the capture of pure elemental energy within a physical form.
 
-According to the ancient texts, the Stone represents "the clear perception necessary to see truth amidst deception." During the original binding ritual, it served as the cornerstone that allowed the Seven Heroes to perceive the Frost Architect's true form rather than the illusions it created to escape capture.
+According to the ancient texts, the Stone represents "the clear perception necessary to see truth amidst deception." During the original binding ritual, it served as the cornerstone that allowed the heroes to perceive the Frost Architect's true form rather than the illusions it created to escape capture.
+
+### The Lost Stones
+Originally, seven Stones of Binding existed. Three auxiliary stones (Harmony, Wisdom, and Balance) served as amplifiers and failsafes for the ritual. Over the centuries, these three were destroyed by various calamities. The binding held because the four cardinal stones remained intact—Clarity, Resilience, Power, and Binding form the essential framework of the prison.
 
 ## Using the Stone
 The Stone responds to intention rather than specific commands. To access its powers, the bearer must hold the Stone and focus their will on the desired effect. The Stone grows brightest when held by someone with pure intentions aligned with its purpose.
@@ -46,7 +49,7 @@ Those who attune to the Stone often report increased clarity of thought and purp
 ## Warnings
 While the Stone itself is not malevolent, extended use can have subtle effects on the bearer. Those who rely too heavily on its revelatory powers may become overly suspicious or obsessed with uncovering secrets, seeing deception where none exists.
 
-Additionally, the Stone's connection to the other Binding Stones makes it a beacon to the Frost Architect and its servants. As more Stones are collected, the risk of attack increases proportionally.
+Additionally, the Stone's connection to the other Binding Stones makes it a beacon to the Frost Architect and its servants. As more Stones are collected, the risk of attack increases proportionally. The Frost Architect will sense that the party has begun gathering the stones and will dispatch increasingly powerful servants to stop them.
 
 ---
 

@@ -43,7 +43,7 @@
 - ❌ Ancient runes translations (for players to decipher)
 - ❌ Yeti legends about the Caverns of Echo
 - ❌ Player handout for musical notes pattern (for tone puzzle)
-- ❌ Visual guide to the seven-pointed star constellation
+- ❌ Visual guide to the constellation pattern (showing four active and three damaged positions)
 
 ### DM Resources
 - ❌ Random encounter table for the journey to the Caverns
@@ -57,7 +57,7 @@
 ### Optional Side Areas
 1. **The Frozen Waterfall Overlook**
    - Additional area in the Caverns with unique environmental challenges
-   - Provides hints about future module (The Frozen Waterfall)
+   - Contains ancient inscriptions about the lost Stone of Balance
 
 2. **Abandoned Explorer Camp**
    - Evidence of previous adventurers who attempted to recover the Stone
@@ -103,5 +103,7 @@
 2. Develop player-facing handouts with visual elements for the puzzles
 3. Create a DM quick reference sheet for running the puzzles
 4. Design a proper regional map showing the journey from Yeti settlement to Caverns
+5. Write Module 06: The Forbidden Peak (Stone of Power)
+6. Write Module 07: The Final Binding (Chamber of Binding + Frost Architect confrontation)
 
-The Caverns of Echo module is approximately 85% complete with the core materials already created. The remaining work focuses on supplementary materials to enhance gameplay and provide options for different player groups.
+The Caverns of Echo module is approximately 85% complete with the core materials already created. The remaining work focuses on supplementary materials to enhance gameplay and completing the final two modules of the condensed campaign.

@@ -278,13 +278,17 @@ After defeating the Colossus, the players can collect:
 
 ### The Ancient Binding
 
-**Dreamspeaker:** "The ancient binding is failing. When our ancestors faced the Frost Architect generations ago, they used powerful magic focused through seven sacred stones—the Stones of Binding."
+**Dreamspeaker:** "The ancient binding is failing. When our ancestors faced the Frost Architect generations ago, they used powerful magic focused through sacred stones—the Stones of Binding."
 
 *She traces a pattern on the table with one clawed finger, creating a formation of seven points surrounding a center.*
 
-"Our ancestors, together with dwarf allies from the mountain kingdoms, gave their lives to empower these stones. The ritual succeeded, imprisoning the Frost Architect in a place where no warmth ever reaches, deep within the Forbidden Peaks."
+"Originally, seven stones were crafted. Our ancestors, together with dwarf allies from the mountain kingdoms, gave their lives to empower these stones. The ritual succeeded, imprisoning the Frost Architect in a place where no warmth ever reaches, deep within the Forbidden Peaks."
 
-"But the stones were scattered after the ritual, to prevent them from being used for other purposes. If the Frost Architect is to be imprisoned again, the stones must be found and brought to the Chamber of Binding."
+*Her expression grows somber.*
+
+"But time has not been kind. Three of the stones—Harmony, Wisdom, and Balance—were lost to calamity over the centuries. Earthquakes, volcanic eruptions, tomb robbers who disturbed what should have remained sealed." *She shakes her head slowly.* "The binding held because the four cardinal stones remained intact: Clarity, Resilience, Power, and Binding itself."
+
+"These four must be found and brought to the Chamber of Binding. They are enough to renew the prison—but only if we act before the Frost Architect breaks free entirely."
 
 *She looks directly at the party, her ancient eyes holding a spark of urgency.*
 
@@ -292,12 +296,12 @@ After defeating the Colossus, the players can collect:
 
 ### Player Knowledge Check Opportunities
 - **History (DC 15):** Recall legends about ancient binding rituals and their requirements
-- **Arcana (DC 16):** Understand the magical principles behind the binding and why seven stones would be needed
+- **Arcana (DC 16):** Understand the magical principles behind the binding and why the four cardinal stones are essential
 - **Religion (DC 14):** Recognize ritual patterns similar to those used in divine sealing ceremonies
 
 ### The Next Quest
 
-**Elder Frostmantle:** "You have done a great service by uncovering this threat. But a greater task now lies before us all. The spheres must be disabled before they can form a complete network. And the Seven Stones of Binding must be recovered if we are to renew the prison that holds the Frost Architect."
+**Elder Frostmantle:** "You have done a great service by uncovering this threat. But a greater task now lies before us all. The spheres must be disabled before they can form a complete network. And the Four Stones of Binding must be recovered if we are to renew the prison that holds the Frost Architect."
 
 **Major:** *Sitting beside the party* "I believe our paths continue together, friends. The mountains have grown more dangerous, and your skills will be needed if we're to face this ancient evil."
 
@@ -329,11 +333,11 @@ The Council offers thanks and rewards:
 **Narrative Description:**
 *As you accept these gifts from the grateful Council, the weight of responsibility settles upon your shoulders. You've uncovered an ancient evil awakening, one that threatens not just the Yeti settlements but potentially the entire region.*
 
-*The crystalline map that Elder Snowheart has given you glimmers faintly in the blue light of the council chamber, the route to the Caverns of Echo clearly marked. The first of seven Stones of Binding awaits there—the first step in a much longer journey.*
+*The crystalline map that Elder Snowheart has given you glimmers faintly in the blue light of the council chamber, the route to the Caverns of Echo clearly marked. The first of four Stones of Binding awaits there—the first step in a desperate race against time.*
 
 *Major stands beside you, his steady presence a reminder that you won't face these challenges alone. "Tomorrow we begin preparations," he says quietly. "The path to the Caverns is not easy, and what guards the Stone may be unlike anything we've faced so far."*
 
-*Outside the council chamber, you can hear the sounds of the Yeti settlement preparing for harsher times—supplies being gathered, defenses strengthened, younglings being taught survival skills. The race to find the Seven Stones of Binding before the Frost Architect completes his network of spheres has begun, and much depends on your success.*
+*Outside the council chamber, you can hear the sounds of the Yeti settlement preparing for harsher times—supplies being gathered, defenses strengthened, younglings being taught survival skills. The race to find the Four Stones of Binding before the Frost Architect completes his network of spheres has begun, and much depends on your success.*
 
 *The ancient evil stirs in its weakening prison. The spheres gather their cold energy. And somewhere in the Caverns of Echo, the first key to salvation waits to be found.*
 

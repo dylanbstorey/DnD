@@ -1,7 +1,7 @@
-# Session 3: The Caverns of Echo
+# Session 4: The Caverns of Echo
 
 ## Session Overview
-This session takes the players on their quest to find the first of the Seven Stones of Binding in the mysterious Caverns of Echo, facing new servants of the Frost Architect and solving ancient puzzles.
+This session takes the players on their quest to find the first of the Four Stones of Binding in the mysterious Caverns of Echo, facing new servants of the Frost Architect and solving ancient puzzles.
 
 ## Part 1: Preparations and Journey
 
@@ -126,7 +126,7 @@ The Caverns feature three main areas that must be explored:
 
 ### The Chamber of Resonance
 
-"This perfectly circular chamber rises into a natural dome. The walls are covered in crystalline formations that vibrate in harmonic patterns when sound reaches them. At the center stands a circular dais with seven depressions arranged in a pattern resembling a constellation. One depression glows with inner light. The air here feels charged with potential energy, as if the entire chamber is waiting for something."
+"This perfectly circular chamber rises into a natural dome. The walls are covered in crystalline formations that vibrate in harmonic patterns when sound reaches them. At the center stands a circular dais with seven depressions arranged in a pattern resembling a constellation—but three of the depressions are cracked and dark, their runes shattered long ago. Only four remain intact, and one of those glows with inner light. The air here feels charged with potential energy, as if the entire chamber is waiting for something."
 
 **Features:**
 - Every sound creates visible ripples of light along the walls
@@ -189,7 +189,7 @@ Once safely away from the caverns, the Stone activates:
 "This Stone connects to the others. As we find more, their combined power will grow. The Frost Architect will sense that we have this one now. His servants will hunt us more aggressively."
 
 ### Session Conclusion
-- The party has recovered the first of seven Stones
+- The party has recovered the first of four Stones
 - They now have a destination for their next quest
 - The Frost Architect's forces are now aware of their interference
 - Time is running short as more spheres are being deployed

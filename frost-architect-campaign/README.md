@@ -4,89 +4,87 @@
 ### Introduction
 Deep in the northern mountains, an ancient being of primordial cold known as the Frost Architect has begun to stir from its centuries-long imprisonment. As its influence spreads, unnatural cold transforms the landscape, turning settlements into frozen wastelands and twisting natural creatures into servants of winter. The Frost Architect seeks to blanket the world in an endless winter, and already its agents deploy mysterious spheres that gather cold energy and strengthen their master.
 
-This campaign follows the heroes as they investigate the spreading cold, discover the threat of the Frost Architect, and embark on a quest to find the Seven Stones of Binding—artifacts created generations ago to imprison the ancient entity. Their journey will take them through frozen landscapes, abandoned settlements, ancient dwarven strongholds, and mystical temples as they race against time to prevent the Frost Architect's full return.
+This campaign follows the heroes as they investigate the spreading cold, discover the threat of the Frost Architect, and embark on a quest to find the Four Stones of Binding—artifacts created generations ago to imprison the ancient entity. Their journey will take them through frozen landscapes, abandoned settlements, ancient dwarven strongholds, and forbidden peaks as they race against time to prevent the Frost Architect's full return.
 
 ### Campaign Structure
-The campaign is structured around the heroes' quest to find the Seven Stones of Binding. After the initial adventure arc establishes the threat, each subsequent adventure module focuses on the search for one of the stones, culminating in a final confrontation with the Frost Architect.
+The campaign is structured in two acts:
+
+**Act I (Sessions 1-3)**: Discovery of the threat — investigating abandoned settlements, encountering the sphere network, and learning about the Frost Architect's return.
+
+**Act II (Sessions 4-7)**: The quest for the Four Stones of Binding — recovering each stone while being hunted by the Frost General, culminating in the renewal of the binding ritual.
 
 ### Key Campaign Elements
 
 #### The Frost Architect
-An ancient entity of primordial cold who once ruled the mountain region during the Time of Long Winter. It was imprisoned generations ago by an alliance of Yeti elders and dwarven craftsmen using the Seven Stones of Binding. Now its prison weakens, and it seeks to regain its full power.
+An ancient entity of primordial cold who once ruled the mountain region during the Time of Long Winter. It was imprisoned generations ago by an alliance of Yeti elders and dwarven craftsmen using the Stones of Binding. Now its prison weakens, and it seeks to regain its full power through a network of cold-gathering spheres.
 
 #### The Sphere Network
 Metallic spheres that fall from the sky and embed themselves in strategic locations. These devices gather cold energy from their surroundings and channel it to strengthen the Frost Architect. They also spread unnatural cold, making areas uninhabitable and creating ideal conditions for the Frost Architect's servants.
 
-#### The Seven Stones of Binding
-Magical artifacts created through the combined efforts of Yeti elders and dwarven craftsmen. Each stone embodies a different aspect of the binding ritual: Clarity, Resilience, Harmony, Power, Wisdom, Balance, and Binding. When brought together in the proper formation, they can imprison the Frost Architect.
+#### The Four Stones of Binding
+Magical artifacts created through the combined efforts of Yeti elders and dwarven craftsmen. Originally seven stones existed, but three auxiliary stones were lost to calamity over the centuries. The four cardinal stones remain: **Clarity**, **Resilience**, **Power**, and **Binding**. When brought together in the Chamber of Binding, they can renew the Frost Architect's prison.
 
-#### Frost Architect's Servants
-Various entities serve the Frost Architect, including:
-- Winter Wights: Restless spirits of those who died from exposure
-- Ice Constructs: Creatures made of magically animated ice (Scouts, Guardians)
-- Frost-Infected Creatures: Animals and humanoids corrupted by cold energy
-- The Frost General: The Architect's powerful lieutenant who hunts the heroes
-
-### Campaign Timeline
-
-#### The Time of Long Winter (Centuries Ago)
-- The Frost Architect first arrived in the mountain region
-- Conquered much of the territory, forcing Yetis and Dwarves into hiding
-- Many settlements were abandoned or destroyed
-
-#### The First Binding (Generations Ago)
-- Yeti elders and Dwarven craftsmen formed an alliance
-- Together they crafted the Seven Stones of Binding
-- Seven heroes sacrificed themselves to power the ritual
-- The Frost Architect was imprisoned in the Forbidden Peaks
-- The Stones were scattered to prevent misuse
-
-#### Recent Events
-- The Frost Architect begins to stir in its weakened prison
-- First sphere falls near Snowhaven, forcing Yetis to abandon their settlement
-- Winter wights and other servants begin appearing in greater numbers
-- The heroes discover the threat and begin their quest for the Seven Stones
+#### Key Antagonists
+- **The Frost Architect**: Primary antagonist; ancient entity of primordial cold, still partially imprisoned
+- **The Frost General**: The Architect's powerful lieutenant who hunts the heroes after they recover the second stone
+- **Winter Wights & Ice Constructs**: Various servants that grow more numerous and powerful as the campaign progresses
 
 ### Adventure Modules
 
-1. **The Frozen Echo**: Introduction to the campaign; heroes investigate Snowhaven
-2. **The Frost Architect's Return**: Heroes discover and explore the first sphere
-3. **The Frost Colossus**: Confrontation with a powerful construct; vision of the greater threat
-4. **The Caverns of Echo**: Quest for the Stone of Clarity (first stone)
-5. **The Dwarven Fortress**: Quest for the Stone of Resilience (second stone)
-6. **The Glacier Temple**: Quest for the Stone of Harmony (third stone)
-7. **The Forbidden Peak**: Quest for the Stone of Power (fourth stone)
-8. **The Ancient Burial Grounds**: Quest for the Stone of Wisdom (fifth stone)
-9. **The Frozen Waterfall**: Quest for the Stone of Balance (sixth stone)
-10. **The Chamber of Binding**: Quest for the Stone of Binding (seventh stone)
-11. **The Final Binding**: Confrontation with the Frost Architect; renewal of the binding ritual
+| Module | Title | Summary |
+|--------|-------|---------|
+| 01 | The Frozen Echo | Introduction; heroes investigate Snowhaven, rescue Mistwalker |
+| 02 | The Frost Architect's Return | Discovery and exploration of the first sphere |
+| 03 | The Frost Colossus | Confrontation with the Colossus; vision of the greater threat; quest begins |
+| 04 | The Caverns of Echo | Quest for the Stone of Clarity (first stone) |
+| 05 | The Dwarven Fortress | Quest for the Stone of Resilience (second stone); Frost General introduced |
+| 06 | The Ashcroft Heist | Heist at a collector's gala for the Stone of Power; Lady Rime introduced |
+| 07 | The Final Binding | Chamber of Binding; the truth revealed; campaign twist ending |
+
+### The Party
+
+#### Player Characters
+- **Matrim Oakenfury** (Level 3 Mountain Dwarf Fighter/Champion) — Practical warrior with an oaken shield; gained Frost Rage powers after the Colossus encounter
+- **Madrigal the Wild Bloom** (Level 3 Wood Elf Sorcerer/Wild Magic) — Former herbalist touched by chaotic natural magic
+- **Cheese** (Level 3 Tabaxi Rogue) — Swashbuckling cat rescued from prison by Matrim and Major
+
+#### Companion NPC
+- **Major** (Level 3 Druid Hound) — Talking dog guide provided by the Yeti Council; healer and navigator
 
 ### Key NPCs
 
 #### Allies
-- **Yeti Council**: Leaders of the Yeti settlements; providers of knowledge and aid
+- **Yeti Council**: Leaders of the Yeti settlements
   - **Elder Frostmantle**: Senior member with silvered fur
   - **Elder Snowheart**: Female member with crystal-adorned braids
   - **Elder Iceclaw**: Member with distinctive ice-like right hand
-- **Dreamspeaker**: Ancient Yeti who remembers the original binding
-- **Major**: Talking dog who serves as the party's guide and companion
-- **Mountain Merchants**: Human traders who provide information about the mountain region
-
-#### Adversaries
-- **The Frost Architect**: Primary antagonist; ancient entity of primordial cold
-- **The Frost General**: The Architect's lieutenant who hunts the heroes
-- **Frost-Touched Beings**: Various creatures corrupted by the Architect's influence
+- **Dreamspeaker**: Ancient Yeti who remembers the original binding; knows the ritual chant
+- **Mistwalker**: Healer from Snowhaven, rescued in Module 01
 
 ### Campaign Themes
-- **Race Against Time**: The sphere network grows stronger each day
+- **Race Against Time**: The sphere network grows stronger; each session the threat escalates
 - **Ancient Magic**: Discovering and using forgotten magical knowledge
-- **Environmental Transformation**: Witnessing the landscape change under cold influence
 - **Sacrifice and Cost**: Understanding what the original binding required and what the renewal might demand
-- **Balance of Forces**: Natural cycles vs. eternal winter; death and rebirth
+- **Found Family**: A dwarf, an elf, a cat, and a talking dog saving the world together
+
+### Session Log
+
+| Session | Module | Key Events | Stones Recovered |
+|---------|--------|------------|------------------|
+| 1 | 01 | Rescued Mistwalker from Snowhaven | — |
+| 2 | 02 | Explored the sphere, triggered security | — |
+| 3 | 03 | Defeated Frost Colossus, learned of the Stones | — |
+| — | Interlude | Matrim & Major broke Cheese out of prison | — |
+| 4 | 04 | *Upcoming* | Clarity |
+| 5 | 05 | *Upcoming* | Resilience |
+| 6 | 06 | *Upcoming* | Power |
+| 7 | 07 | *Upcoming* | Binding |
 
 ### DM Notes
-This campaign is designed for characters starting at level 1 and progressing to approximately level 10-12 by the final module. Each adventure should provide enough experience to advance roughly one level, with additional side quests and random encounters available to ensure appropriate progression.
+This campaign is designed for characters progressing from level 1 to approximately level 5-6 by the final module. The condensed four-stone structure allows for a tighter narrative with escalating stakes:
 
-The timeline creates pressure without being rigid. If players move quickly, add additional complications to journeys. If players move slowly, increase the effects of active spheres on the region to maintain tension.
+- **Sessions 4-5**: Establish the pattern of stone recovery; introduce the Frost General as a recurring threat
+- **Session 6**: Frost General rematch at the campaign's most dangerous location; party should feel the pressure
+- **Session 7**: All-or-nothing finale with meaningful choices about sacrifice
 
-The final cost of renewing the binding should be left adaptable based on player choices throughout the campaign, allowing for multiple possible resolutions to the final confrontation.
+The cost of renewing the binding should be left adaptable based on player choices throughout the campaign, allowing for multiple possible resolutions to the final confrontation.

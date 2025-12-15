@@ -31,7 +31,7 @@ The vision reveals Frosthold, once the greatest dwarven stronghold in the northe
 
 ### Key Information
 
-1. **The Stone of Resilience**: The second of the Seven Stones of Binding is located within Frosthold, in what appears to be a ceremonial chamber. It is partially encased in magical ice.
+1. **The Stone of Resilience**: The second of the Four Stones of Binding is located within Frosthold, in what appears to be a ceremonial chamber. It is partially encased in magical ice.
 
 2. **Fortress Occupation**: The fortress is now occupied by servants of the Frost Architect, including:
    - Winter wights
@@ -54,7 +54,7 @@ The Yeti Council can provide limited additional information about Frosthold:
 
 - It was built approximately 300 years ago as a dwarven trading post and mining colony
 - During the Time of Long Winter, it became a sanctuary for those fleeing the Frost Architect
-- Dwarven craftsmen from Frosthold worked with Yeti elders to create the Seven Stones of Binding
+- Dwarven craftsmen from Frosthold worked with Yeti elders to create the Stones of Binding
 - After the binding ritual, the surviving dwarves sealed the fortress and abandoned the region
 - No one has entered Frosthold in living memory
 

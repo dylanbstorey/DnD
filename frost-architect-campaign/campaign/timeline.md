@@ -12,15 +12,20 @@
 - Yeti elders and Dwarven craftsmen formed an alliance
 - Together they crafted the Seven Stones of Binding
 - Seven heroes (both Yeti and Dwarf) sacrificed themselves to power the ritual
-- The Frost Architect was imprisoned in the Forbidden Peaks
+- The Frost Architect was imprisoned in the Chamber of Binding within the Forbidden Peaks
 - The Stones were scattered to prevent misuse
 
-### The Aftermath
+### The Diminishing (Over Centuries)
+- Three of the auxiliary stones were lost:
+  - Stone of Harmony: Destroyed when Glacier Temple collapsed (volcanic eruption)
+  - Stone of Wisdom: Consumed by its own magic (tomb robbers violated burial grounds)
+  - Stone of Balance: Fell into volcanic vent beneath Frozen Waterfall (earthquake)
+- The binding held with only the four cardinal stones
 - Yeti and Dwarven alliance gradually faded
 - Dwarven fortress of Frosthold abandoned (considered a tomb)
-- Yeti settlements slowly rebuilt
-- Knowledge of the binding ritual preserved by Dreamspeaker and her predecessors
-- Climate returned to normal seasonal patterns
+- Knowledge of the binding ritual preserved only by Dreamspeaker's lineage
+
+---
 
 ## Recent Events
 
@@ -31,93 +36,146 @@
 - Winter wights begin appearing in greater numbers
 - Mistwalker stays behind and becomes trapped
 
-### Session 1: The Frost Architect's Return
-- Players are sent to investigate Snowhaven
-- They rescue Mistwalker and learn about the metallic sphere
-- Council suspects the return of the Frost Architect
-- Players travel to the sphere and explore it
-- They trigger security systems and flee
+---
 
-### Session 2: The Frost Colossus (Current Session)
+## Campaign Sessions
+
+### Act I: Discovery
+
+#### Session 1: The Frozen Echo
+- Players sent to investigate Snowhaven
+- Rescued Mistwalker, learned about the metallic sphere
+- Council suspects something ancient and dangerous
+- Major joins as guide
+
+#### Session 2: The Frost Architect's Return
+- Players travel to the sphere and explore it
+- Discover the sphere is part of a network gathering cold energy
+- See spectral image of the Frost Architect
+- Trigger security systems and flee
+
+#### Session 3: The Frost Colossus
 - Frost Colossus emerges to pursue the players
-- Battle with the Colossus reveals its connection to the sphere
+- Battle reveals connection between Colossus and sphere network
 - Vision shows the network of spheres and their purpose
-- Return to Council reveals the Seven Stones of Binding
+- Return to Council reveals the Stones of Binding
+- Dreamspeaker explains that four cardinal stones remain
 - Quest begins to find the first Stone in the Caverns of Echo
 
-## Upcoming Events
+#### Interlude: The Prison Break
+- Matrim and Major undertake a side mission
+- Successfully infiltrated a prison without raising alarms
+- Rescued Cheese the cat (Tabaxi rogue)
+- Cheese joins the party
 
-### Session 3: The Caverns of Echo
-- Journey to the Caverns of Echo
-- Navigation through the strange acoustic chambers
-- Puzzle-solving and combat with Echo Mimics
-- Recovery of the Stone of Clarity (first Stone)
-- Vision revealing the location of the second Stone
+---
 
-### Session 4: The Dwarven Fortress
+### Act II: The Four Stones
+
+#### Session 4: The Caverns of Echo (Upcoming)
+- Journey to the Caverns of Echo (3 days)
+- Navigation through strange acoustic chambers
+- Puzzle-solving and combat with Echo Mimics, Depth Hunter
+- Confrontation with the Guardian of Resonance
+- **Recovery of the Stone of Clarity**
+- Vision reveals location of the Stone of Resilience
+
+#### Session 5: The Dwarven Fortress (Upcoming)
 - Expedition to Frosthold (abandoned dwarven fortress)
-- Exploration of the fortress now occupied by the Frost Architect's servants
-- Discovery of the dwarves' connection to the original binding
-- Recovery of the Stone of Resilience (second Stone)
-- First encounter with the Frost General
+- Exploration of fortress occupied by Frost Architect's servants
+- Discovery of dwarves' connection to original binding
+- Battle with the Frozen King
+- **Recovery of the Stone of Resilience**
+- **First encounter with the Frost General** — party must escape
+- Vision reveals location of the Stone of Power
 
-### Session 5: The Glacier Temple
-- Recovering from the Frost General encounter
-- Journey to the ancient Glacier Temple
-- Dealing with primordial ice creatures
-- Puzzle-solving involving harmony and balance
-- Recovery of the Stone of Harmony (third Stone)
+#### Session 6: The Ashcroft Heist (Upcoming)
+- Journey to Crystalvale, a wealthy mountain trading city
+- Infiltration of Lord Vesper Ashcroft's gala
+- Major poses as "Lord Majorus" with Matrim and Madrigal as his "pets"
+- Cheese hired as entertainment (acrobat)
+- Heist to steal the Stone of Power from Ashcroft's collection
+- **Encounter with Lady Rime** — a winter fey rival collector secretly planning to betray the Frost Architect
+- **Recovery of the Stone of Power**
+- All three stones resonate, revealing the path to the Chamber of Binding
 
-## Future Events Timeline (DM Planning)
+#### Session 7: The Final Binding (Upcoming)
+- Journey into the Forbidden Peaks
+- **Frost General boss battle** at the Gate of Winter
+- Descent to the Chamber of Binding
+- **THE TWIST:** The prison is empty — the binding was never broken
+- The "Frost Architect" was a projection; the entire quest was orchestrated to gather the Stones
+- The Stones are stolen by an unknown entity; a mysterious symbol is left behind
+- The party realizes they were manipulated, setting up the next campaign arc
 
-### Sphere Network Development
-- **First sphere**: Discovered in Session 1
-- **Second sphere**: Activates after Session 3
-- **Third sphere**: Activates after Session 5
-- **Fourth sphere**: Players have chance to prevent activation
-- **Fifth sphere**: Players have chance to prevent activation
-- **Final sphere**: Activates as the Frost Architect nearly breaks free
+---
 
-### The Frost Architect's Progress
-- Initially weakened and confined to prison
-- Gradually strengthens as spheres activate
-- Can project his image after three spheres are active
-- Can control powerful servants directly after five spheres
-- Can physically manifest outside prison if all spheres activate
+## Escalation Timeline
 
-### Finding the Seven Stones
-1. **Stone of Clarity**: Caverns of Echo (Session 3)
-2. **Stone of Resilience**: Frosthold (Session 4)
-3. **Stone of Harmony**: Glacier Temple (Session 5)
-4. **Stone of Power**: Forbidden Peak summit
-5. **Stone of Wisdom**: Ancient Yeti burial grounds
-6. **Stone of Balance**: The Frozen Waterfall
-7. **Stone of Binding**: The Chamber of Binding (deep within the Forbidden Peaks)
+### Frost Architect's Growing Power
+| After Session | Development |
+|---------------|-------------|
+| 3 | Can project spectral images through the sphere network |
+| 4 | Ice Scouts actively hunting the party |
+| 5 | Frost General dispatched; can speak through winter wights |
+| 6 | Can project his voice directly to taunt the party |
+| 7 | Partial physical manifestation in the Chamber |
 
-### Final Confrontation
-- Gathering all Seven Stones
-- Race to the Chamber of Binding
-- Confrontation with the Frost Architect
-- Performing the renewal ritual
-- Dealing with the cost of the binding
+### Sphere Network Status
+- **Session 1-3**: First sphere discovered and explored
+- **Session 4**: Second sphere activates elsewhere (reported by Council)
+- **Session 5**: Third sphere activates; weather patterns worsen across region
+- **Session 6**: Fourth sphere activates; unnatural winter spreading rapidly
+- **Session 7**: Network nearing completion; hours remain before full activation
 
-## DM Notes
+---
 
-### Adjusting the Timeline
-- If players move quickly, add additional complications to journeys
-- If players move slowly, increase the effects of active spheres on the region
-- The timeline creates pressure without being rigid
+## The Frost General's Arc
 
-### Critical Events
-These events should happen regardless of player actions:
+The Frost General serves as the primary combat antagonist:
+
+| Session | Role |
+|---------|------|
+| 5 | **Introduction**: Appears as party recovers Stone of Resilience. Too powerful to fight directly. Party must escape Frosthold while he pursues. Establishes him as a terrifying threat. |
+| 6 | **Absent**: The heist takes place in civilized territory where the Frost General cannot easily operate. He's hunting for the party elsewhere. |
+| 7 | **Final Confrontation**: Guards the Gate of Winter before the Chamber of Binding. The party must defeat him to reach the ritual site. His dying words hint at the truth: "The voice was always silent." |
+
+---
+
+## Critical Events (Must Happen)
+
+These events occur regardless of player actions:
 - The vision after defeating the Frost Colossus
-- The revelation about the Seven Stones of Binding
+- Dreamspeaker's revelation about the Four Stones
+- The Frost General's appearance at Frosthold
 - The gradual awakening of the Frost Architect
-- The activation of at least three spheres
+- The activation of additional spheres between sessions
 
-### Flexible Events
-These events can be modified based on player choices:
-- Which spheres are disabled vs. activated
+## Flexible Events (Player Choice)
+
+These can be modified based on player decisions:
+- Whether spheres are disabled vs. ignored
 - How the party approaches each Stone location
-- Whether they gain allies among other settlements
+- Whether the Frost General is defeated or escapes
+- Allies gained or lost along the way
 - The ultimate cost of renewing the binding
+
+---
+
+## DM Planning Notes
+
+### Pacing Guidance
+- Each session should feel complete while building toward the finale
+- Sessions 4-5 establish the "recover stone, face escalating threat" pattern
+- Session 6 breaks the pattern with a major victory (Frost General defeat)
+- Session 7 should feel like a desperate race with meaningful sacrifice
+
+### If Players Move Slowly
+- Increase sphere activation effects (worsening weather, more enemies)
+- Have NPCs report on spreading devastation
+- The Frost Architect's voice begins reaching them directly
+
+### If Players Move Quickly
+- Add travel complications or encounters
+- Frost General could appear earlier (ambush between locations)
+- Allow time for character moments and roleplay
